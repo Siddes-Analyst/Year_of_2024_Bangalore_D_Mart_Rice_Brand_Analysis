@@ -18,3 +18,17 @@ This project analyzes rice product sales, profit performance, and customer buyin
 - Understand seasonality and customer behavior
 - Provide actionable recommendations to improve revenue and profitability
 
+---
+
+## 🛠️ Tools & Technologies
+
+- SQL (Data Extraction & Querying)
+- Excel (Data Cleaning & Analysis)
+- Power BI (Dashboard & Visualization)
+
+## 📌 Key Insights
+
+### 🥇 Category Performance
+- Basmati Rice contributes ~65% of total profit, making it the top-performing category
+- Special occasion rice categories contribute ~88% of total profit, while daily-use rice contributes only ~12%
+- Daily-use categories (Ponni, Kolam, Sona Mansoori) show high volume but low profit margins
