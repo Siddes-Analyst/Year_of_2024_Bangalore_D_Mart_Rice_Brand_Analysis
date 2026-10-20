@@ -22,6 +22,14 @@ This project analyzes rice product sales, profit performance, and customer buyin
 - Excel (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 
+---
+
+![](01_Store_Wise.jpg)
+
+![](02_all_analysis.jpg)
+
+---
+
 ## 📌 Key Insights
 
 #### 🥇 Category Performance
