@@ -24,9 +24,9 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ---
 
-![](01_Store_Wise.jpg)
-
 ![](02_all_analysis.jpg)
+
+![](01_Store_Wise.jpg)
 
 ---
 
